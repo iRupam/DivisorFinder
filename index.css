@@ -1,0 +1,11 @@
+#heading {
+  background-color: aqua;
+  color: darkorange;
+  height: 100px;
+  font-size: 50px;
+  text-align: center;
+}
+#params {
+  height: 100px;
+  font-size: 50px;
+}
