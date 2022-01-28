@@ -6,6 +6,16 @@
   text-align: center;
 }
 #params {
-  height: 100px;
-  font-size: 50px;
+  margin: 7px;
+}
+
+#val {
+  height: 40px;
+  font-size: 14pt;
+  text-align: right;
+}
+
+#sub {
+  height: 40px;
+  font-size: 14pt;
 }
